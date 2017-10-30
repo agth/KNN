@@ -25,4 +25,6 @@
 то получится, что первое значение больше второго, и следовательно точку нужно классифицировать как жёлтую.
 ![image](https://user-images.githubusercontent.com/33224690/32180825-3b549b42-bd50-11e7-8b75-5a393335a0b7.png)
 
+Более подробно можно почитать здесь http://scikit-learn.org/stable/modules/neighbors.html
+
 
