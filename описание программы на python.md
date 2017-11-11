@@ -4,9 +4,13 @@
   Можно написать не используя, для этого нужно самому задать выборку и алгоритм который будет с ней работать.
 
 import numpy as np
+
 import matplotlib.pyplot as plt
+
 from matplotlib.colors import ListedColormap
+
 from sklearn import neighbors, datasets
+
 
 2. объявляется глобалльная переменная и присваивается ей значение. Эта переменная хранит значение K - количество ближайших 
   соседей которое будет искаться. 
