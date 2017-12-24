@@ -102,4 +102,5 @@ y =  [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
   
  10. описание функции meshgrid() 
    [meshgrid](https://github.com/cgth/KNN/blob/master/%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8%20meshgrid(%5B%5D%20%2C%20%5B%5D).md)
- 11. Z = clf.predict(np.c_[xx.ravel(), yy.ravel()]) 
+  [пример](http://example.com/ "Необязательная подсказка")
+11. Z = clf.predict(np.c_[xx.ravel(), yy.ravel()]) 
