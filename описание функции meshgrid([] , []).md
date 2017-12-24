@@ -1,4 +1,4 @@
-  xx, yy = np.meshgrid(np.arange(x_min, x_max, h),  np.arange(y_min, y_max, h))
+   xx, yy = np.meshgrid(np.arange(x_min, x_max, h),  np.arange(y_min, y_max, h))
 
   функция
   np.arange(начало, конец, шаг) возвращает одномерный массив равномерно распределённую величину от начала до конца с шагом
