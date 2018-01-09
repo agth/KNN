@@ -26,11 +26,13 @@
 то получится, что первое значение больше второго, и следовательно точку нужно классифицировать к жёлтому классу.
 ![image](https://user-images.githubusercontent.com/33224690/32180825-3b549b42-bd50-11e7-8b75-5a393335a0b7.png)
 
+Более подробно можно почитать [здесь](http://scikit-learn.org/stable/modules/neighbors.html)
+
 
 В качестве практической реализации можете ознакомиться с несколькими примерами.
 
 1 
 [простейший пример обучения вкассификатора с испорльзованием библиотеки scikit-learn](https://github.com/cgth/KNN/blob/master/%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%B5%D0%B9%D1%88%D0%B8%D0%B9%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80.py)
-Более подробно можно почитать здесь http://scikit-learn.org/stable/modules/neighbors.html
+
 
 
